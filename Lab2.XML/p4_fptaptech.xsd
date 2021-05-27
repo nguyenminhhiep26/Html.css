@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<document xmlns = "http://xmlpowercorp"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLoction="http://xmlpowercorp fptaptech.xsd"
+        documentDate="2005-02-02">
+    <fptaptech>
+        <student>
+            <name>
+                <LName>HIEP</LName>
+                <FName>MINH</FName>
+            </name>
+            <age> 19 </age>
+        </student>
+
+        <student>
+            <name>
+                <LName>THU</LName>
+                <FName>TRAN</FName>
+            </name>
+            <age> 20 </age>
+        </student>
+    </fptaptech>
+
+</document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BOOK [
+        <!ELEMENT p (#PCDATA)>
+        <!ELEMENT BOOK  (OPENER, SUBTITLE?, INTRODUCTION?,
+                (SECTION | PART)+)>
+        <!ELEMENT OPENER  (TITLE_TEXT)*>
+        <!ELEMENT TITLE_TEXT (#PCDATA)>
+        <!ELEMENT SUBTITLE (#PCDATA)>
+        <!ELEMENT INTRODUCTION (HEADER, p+)+>
+        <!ELEMENT PART (HEADER, CHAPTER+)>
+        <!ELEMENT SECTION (HEADER, p+)>
+        <!ELEMENT HEADER (#PCDATA)>
+        <!ELEMENT CHAPTER (CHAPTER_NUMBER, CHAPTER_TEXT)>
+        <!ELEMENT CHAPTER_NUMBER (#PCDATA)>
+        <!ELEMENT CHAPTER_TEXT (p) +>
+        <!ATTLIST PART  ID CDATA #REQUIRED>
+        <!ENTITY GLAD "Glad you want to hear about me.">
+        ]>
+<BOOK>
+    <OPENER>
+        <TITLE_TEXT>
+            ALL About Me
+        </TITLE_TEXT>
+    </OPENER>
+    <PART ID = "P01">
+        <HEADER>Welcome To My Book</HEADER>
+        <CHAPTER>
+            <CHAPTER_TEXT>
+                <p>&GLAD;</p>
+                <p>There's so much to say!</p>
+                <p>Where should we start?></p>
+                <p>How about more about me?</p>
+            </CHAPTER_TEXT>
+        </CHAPTER>
+    </PART>
+</BOOK>

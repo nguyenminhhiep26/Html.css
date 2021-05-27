@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes" ?>
+<!DOCTYBE document [
+<!ELEMENT document (employee)*>
+<!ELEMENT employee (name , hiredata, projects)>
+<!ELEMENT name (lastname, firstname)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT firtname (#PCDATA)>
+<!ELEMENT hiredata (#PCDATA)>
+<!ELEMENT projects (project)*>
+<!ELEMENT project (product, id , price)>
+<!ELEMENT product (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+        ]>
+
+<document>
+    <employee>
+        <name>
+            <lastname>HIEP</lastname>
+            <firstname>NGUYEN MINH HIEP</firstname>
+        </name>
+        <hiredata>May 26, 2002</hiredata>
+        <projects>
+            <project>
+                <product>Printer</product>
+                <id>123</id>
+                <price>$10000</price>
+            </project>
+            <project>
+                <product>Laptop</product>
+                <id>123</id>
+                <price>$110000</price>
+            </project>
+
+        </projects>
+    </employee>
+</document>
