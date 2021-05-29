@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="test.xsl" ?>
+<tests>
+    <test >
+        <Name>David Blake</Name>
+        <Age>32</Age>
+        <Price>$500</Price>
+    </test>
+
+    <test1>
+        <Name>Susan Jones </Name>
+        <Age>55</Age>
+        <Price>$5000</Price>
+    </test1>
+
+    <test2>
+        <Name>Martin Howell</Name>
+        <Age>25</Age>
+        <Price>$0</Price>
+    </test2>
+
+    <test3>
+        <Name>Tony Kemp </Name>
+        <Age>35</Age>
+        <Price>$5000</Price>
+    </test3>
+
+</tests>

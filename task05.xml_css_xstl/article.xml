@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="article.xsl"?>
+<list>
+    <article id="65">
+        <author>Hòa Đinh</author>
+        <title>Conditional Compilation Directives Giải Quyết Xung Đột Include</title>
+        <link>http://www.stdio.vn/articles/read/65-conditional-compilation-directives-giai-quyet-xung-dot-include</link>
+        <publish_date>23/09/14</publish_date>
+        <description>#include, một chỉ thị hết sức quen thuộc với bất cứ lập trình viên nào đã và đang làm việc với ngôn ngữ C/C++.</description>
+    </article>
+    <article id="64">
+        <author>La Kiến Vinh</author>
+        <title>So Sánh null Và Rỗng</title>
+        <link>http://www.stdio.vn/articles/read/64-so-sanh-null-va-rong</link>
+        <publish_date>22/09/14</publish_date>
+        <description>KHÔNG TỒN TẠI và TỒN TẠI CÁI KHÔNG là 2 khái niệm khác nhau nhưng dễ gây nhầm lẫn.</description>
+    </article>
+</list>

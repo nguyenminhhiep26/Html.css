@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="BookInfo.css"?>
+
+<Book>
+    <BookDetail>
+        <TitleDetail>
+            <Title>Head First Java, 2nd Edition</Title>
+            by
+            <Authors>Kathy Sierra, Bert Bates</Authors>
+            (<EdittionInfo>PaperBack</EdittionInfo> -
+            <PrintDate>
+                Feb 9, 2005
+            </PrintDate>)
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>$29.67</NewPrice>
+            Old Price:
+            <OldPrice>$18.96</OldPrice>
+        </Price>
+
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27
+            </GetDate>,if you order in the next
+            <Hours>57 hours and</Hours>
+            <Minutes>43 minutes</Minutes>
+        </OrderInfo>
+        <Edition>
+            Other Edition:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+
+    <BookDetail>
+        <TitleDetail>
+            <Title>Efective Java Programming Language Guide</Title>
+            by
+            <Authors>Joshua Block</Authors>
+            (<EdittionInfo>PaperBack</EdittionInfo> -
+            <PrintDate>
+               May 26 , 2002
+            </PrintDate>)
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>$49.67</NewPrice>
+            Old Price:
+            <OldPrice>$38.96</OldPrice>
+        </Price>
+
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27
+            </GetDate>,if you order in the next
+            if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>47 minutes</Minutes>
+        </OrderInfo>
+        <Edition>
+            Other Edition:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+
+    <BookDetail>
+        <TitleDetail>
+            <Title>SCJP Sun Certified Progremmer for Java 5 Study Guide (Exam 310-055) (Certificatiom Press Study Guides)</Title>
+            by
+            <Authors>Joshua Block</Authors>
+            (<EdittionInfo>PaperBack</EdittionInfo> -
+            <PrintDate>
+               Jun 5, 2001
+            </PrintDate>)
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>$45.67</NewPrice>
+            Old Price:
+            <OldPrice>$38.96</OldPrice>
+        </Price>
+
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27
+            </GetDate>,if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>47 minutes</Minutes>
+        </OrderInfo>
+        <Edition>
+            Other Edition:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+
+    <BookDetail>
+        <TitleDetail>
+            <Title>Beginning Programming with Java for Dummies (For Dummies (Computer/Tech))</Title>
+            by
+            <Authors>Barry Burd</Authors>
+            (<EdittionInfo>PaperBack</EdittionInfo> -
+            <PrintDate>
+               Apeil 15, 2005
+            </PrintDate>)
+        </TitleDetail>
+        <Price>
+            New Price:
+            <NewPrice>$17.67</NewPrice>
+            Old Price:
+            <OldPrice>$13.96</OldPrice>
+        </Price>
+
+        <OrderInfo>
+            Get it by
+            <GetDate>
+                Tuesday, Feb. 27
+            </GetDate>,if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>17 minutes</Minutes>
+        </OrderInfo>
+        <Edition>
+            Other Edition:
+            <EditionType>PaperBack</EditionType>
+        </Edition>
+    </BookDetail>
+</Book>
