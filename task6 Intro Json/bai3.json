@@ -1,0 +1,28 @@
+{
+  "menu" : {
+    "header" : "Adobe SVG Viewer",
+    "item \"action\" : \"Open\",\n      \"id\" : \"Open\" " : "Open",
+    "item \"cation\" : \"OpenNew\",     \"id\" : \"OpenNew\" " : "Open New",
+    "separator" : {
+      "item \"action\" : \"ZoomIn\",      \"id\" : \"ZoomIn\" ": "Zoom In",
+      "item \"action\" : \"ZoomOut\",      \"id\" : \"ZoomOut\" ": "Zoom Out",
+      "item \"action\" : \"OriginalView\",      \"id\" : \"OriginalView\" ": "OriginalView"
+    },
+    "separator" : {
+      "item \"action\" : \"Quality\",\n      \"id\" : \"Quality\" " : "Quality",
+      "item \"action\" : \"Pause\",\n      \"id\" : \"Pause\" " : "Pause",
+      "item \"action\" : \"Mute\",\n      \"id\" : \"Mute\" " : "Mute"
+    },
+    "separator" : {
+      "item \"action\" : \"Find\",\n      \"id\" : \"Find\" " : "Find ...",
+      "item \"action\" : \"FindAgain\",\n      \"id\" : \"FindAgain\" " : "Find Again",
+      "item \"action\" : \"Copy\",\n      \"id\" : \"Copy\" " : "Copy",
+      "item \"action\" : \"CopyAgain\",\n      \"id\" : \"CopyAgain\" " : "Copy Again",
+      "item \"action\" : \"CopySVG\",\n      \"id\" : \"CopySVG\" " : "Copy SVG",
+      "item \"action\" : \"ViewSource\",\n      \"id\" : \"ViewSource\" " : "View Source",
+      "item \"action\" : \"SaveAs\",\n      \"id\" : \"SaveAs\" " : "Save As"
+    },
+    "item \"action\" : \"Help\",\n      \"id\" : \"Help\" " : "Help",
+    "item \"action\" : \"About\",\n      \"id\" : \"About\" " : "About Adobe CVG Viewer"
+  }
+}
