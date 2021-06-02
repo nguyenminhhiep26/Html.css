@@ -1,0 +1,18 @@
+[
+  {
+    "student": {
+      "address": "HA NAM",
+      "phone": "0702096624",
+      "Age": "19",
+      "Name": "NGUYEN MINH HIEP"
+    }
+  },
+  {
+    "student": {
+      "Phone": "0336330970",
+      "Address ": "HA NAM",
+      "Age": "38",
+      "Name": "NGUYEN THI HIEN"
+    }
+  }
+]
